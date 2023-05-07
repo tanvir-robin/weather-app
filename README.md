@@ -26,7 +26,7 @@ Version: 1.01
 ### Backend: 
 **OpenWeatherMap** is an online service, owned by OpenWeather Ltd, that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location. The company provides a minute-by-minute hyperlocal precipitation forecast for any location
 
-### Flutter State Management: GetX
+### Flutter State Management: by [GetX](https://pub.dev/packages/get)
 
 ### Third Party Flutter Packages used: 
 - [GeoLocation](https://pub.dev/packages/geolocation)
@@ -40,5 +40,6 @@ Version: 1.01
 > Telegram: @RooBiiinnn
 
 ![APP UI Screenshots](https://user-images.githubusercontent.com/95021955/235283804-d3cc6df4-c9e2-49cc-ad83-90368dbadff2.png)
+
 
 
