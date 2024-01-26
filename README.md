@@ -35,7 +35,7 @@ Version: 1.01
 - [GetX](https://pub.dev/packages/get)
 - [INTL](https://pub.dev/packages/intl)
 
-> Feel free contact the developers for any queries. <br>
+> Feel free contact the developers for any queries. (Please write with your direct purpose instead of sending just Hi or Hello first) <br>
 > Email: tanvir.rrrabin@gmail.com <br>
 > Telegram: @RooBiiinnn
 
