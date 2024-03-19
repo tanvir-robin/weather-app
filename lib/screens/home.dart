@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Image.asset('assets/icons/clouds.png'),
-                      SizedBox(
+                      const SizedBox(
                         height: 10,
                       ),
                       const CircularProgressIndicator(),
@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   const SizedBox(
                     height: 20,
                   ),
-                  HeaderSc(),
+                  const HeaderSc(),
                   CurrentWeatherWidget(
                       globalcontroller.getWeatherData().weatherDataCurrent()),
                   const SizedBox(
